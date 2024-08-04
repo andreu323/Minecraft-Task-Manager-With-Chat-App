@@ -9,8 +9,9 @@ site contains task system for players at the town to recive points for their wor
 
 сайт имеет систему задач для жителей в которой жители могут получать баллы за выполнения задания и за баллы покупать в магазине города какието предметы
 
-
-
+/n
+/n
+/n
 
 this is my minecraft task manager with chat app backend.
 

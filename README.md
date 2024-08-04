@@ -1,4 +1,4 @@
-﻿# Minecraft Task Manager With Chat App
+﻿# Backend Side of Minecraft Task Manager With Chat App
 
 this is my minecraft task manager with chat app backend.
 

@@ -3,12 +3,11 @@
 https://www.youtube.com/playlist?list=PLSZmgSPNdTKZPq-3XGoyAHaHAdjpVh4wj
 
 
-site contains task system for players at the town to recive points for their work at the town and then they can buy things at the shop
+site contains task system for players at the town to recive points for their work at the town.
 
 /
 
-сайт имеет систему задач для жителей в которой жители могут получать баллы за выполнения задания и за баллы покупать в магазине города какието предметы
-
+сайт имеет систему задач для жителей в которой жители могут получать баллы за выполнения задания/
 <br />
 <br />
 <br />

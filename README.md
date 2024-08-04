@@ -2,6 +2,14 @@
  
 https://www.youtube.com/playlist?list=PLSZmgSPNdTKZPq-3XGoyAHaHAdjpVh4wj
 
+
+site contains task system for players at the town to recive points for their work at the town and then they can buy things at the shop
+/
+сайт имеет систему задач для жителей в которой жители могут получать баллы за выполнения задания и за баллы покупать в магазине города какието предметы
+
+
+
+
 this is my minecraft task manager with chat app backend.
 
 login was based on some minecraft server api that was giving from discord id user's minecraft nickname.
